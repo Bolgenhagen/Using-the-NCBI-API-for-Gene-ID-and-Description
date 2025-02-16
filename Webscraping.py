@@ -3,9 +3,9 @@ import os
 import requests
 from Bio import Entrez
 import xml.etree.ElementTree as ET
-os.chdir("C:/Users/felip/Documents/Mestrado/Tese/Results/Transport/24VScontrol")
+os.chdir("")
 
-df = pd.read_csv("Transport_results 24_control.csv")
+df = pd.read_csv("")
 
 
 #### trying to webscraping
